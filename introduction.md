@@ -12,3 +12,4 @@ I like the Javascript path
 * Sass
 * WordPress
 * Shopify
+* Killing history using git rebase
